@@ -1,1 +1,1 @@
-Data struructre questions solved in java
+Common data struructre questions solved in Java
